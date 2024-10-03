@@ -2048,6 +2048,11 @@
             "doubleSided" : true,
             "name" : "HairMaterial",
             "pbrMetallicRoughness" : {}
+        },
+        {
+            "doubleSided" : true,
+            "name" : "Material",
+            "pbrMetallicRoughness" : {}
         }
     ],
     "meshes" : [
@@ -2191,7 +2196,7 @@
                         "WEIGHTS_0" : 53
                     },
                     "indices" : 54,
-                    "material" : 4
+                    "material" : 5
                 }
             ]
         },
